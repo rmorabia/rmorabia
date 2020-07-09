@@ -15,4 +15,4 @@ If you would like to reach me, I am accessible via:
 - Email: [hi@rmorabia.com](mailto:hi@rmorabia.com)
 - LinkedIn: [/in/rmorabia](http://linkedin.com/in/rmorabia)
 
-**View or download my resume at [radhika.dev/resume.pdf](https://radhika.dev/resume.pdf)
+**View or download my resume at [radhika.dev/resume.pdf](https://radhika.dev/resume.pdf).**
