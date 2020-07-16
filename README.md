@@ -16,3 +16,9 @@ If you would like to reach me, I am accessible via:
 - LinkedIn: [in/rmorabia](http://linkedin.com/in/rmorabia)
 
 **View or download my resume at [radhika.dev/resume.pdf](https://radhika.dev/resume.pdf).**
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rmorabia alt=rmorabia/> </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rmorabia&show_icons=true alt=rmorabia /> </p>
+
+
