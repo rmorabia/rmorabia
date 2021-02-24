@@ -6,7 +6,7 @@ I occasionally give talks, record lessons, stream code challenges, write open-so
 
 I spend most of my time making absurdly large Spotify playlists, skateboarding, reading books, watching films, and writing about how media intersects with our lives.
  
-If you want to read about what I'm thinking about right now, I write infrequently on my blog. Read that at [radhika.dev/blog](https://radhika.dev/blog/).
+If you want to read about what I'm thinking about right now, I write regularly on my blog. Check out [radhika.dev](https://radhika.dev/).
 
 If you would like to reach me, I am accessible via:
 
