@@ -2,7 +2,7 @@
 
 I'm a Software Engineer at [OpenTable](https://opentable.com), currently working on building a spectacular restaurant platform that helps 50k+ restaurants serve 100m+ diners a month.
 
-I am always learning new things and exposing myself to new paradigms of software. I also mentor within the community and build cool things for my friends to use.
+I am always learning new things and exposing myself to new paradigms of building software. I also mentor within the community and build cool things for my friends to use.
 
 If you would like to reach me, I am accessible via:
 
