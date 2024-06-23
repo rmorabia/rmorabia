@@ -1,8 +1,8 @@
 ### Hi, I'm Radhika Morabia.
 
-I'm a Software Engineer at [OpenTable](https://opentable.com), currently working on building the booking & user experience for 100m+ diners a month.
+I'm a Software Engineer at [OpenTable](https://opentable.com), currently working on building a spectacular restaurant platform that helps 50k+ restaurants serve 100m+ diners a month.
 
-I occasionally give talks, record lessons, stream code challenges, write open-source code, and write a newsletter.
+I am always learning new things and exposing myself to new paradigms of software. I also mentor within the community and build cool things for my friends to use.
 
 If you would like to reach me, I am accessible via:
 
