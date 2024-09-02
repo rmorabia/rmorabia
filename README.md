@@ -6,6 +6,7 @@ I am always learning new things and exposing myself to new paradigms of building
 
 If you would like to reach me, I am accessible via:
 
+- Blog: [rmorabia.com](https://rmorabia.com)
 - Email: [hi@rmorabia.com](mailto:hi@rmorabia.com)
 - LinkedIn: [in/rmorabia](http://linkedin.com/in/rmorabia)
 
