@@ -10,7 +10,9 @@ If you would like to reach me, I am accessible via:
 - Email: [hi@rmorabia.com](mailto:hi@rmorabia.com)
 - LinkedIn: [in/rmorabia](http://linkedin.com/in/rmorabia)
 
-**View or download my resume [here](https://docs.google.com/document/d/1jyR1JjXyKc4wtUDD9aRMLeHxjdC2R3a0SpHtMfrCF60/edit?usp=sharing).**
+**If you are a recruiter, view my [hire me page](https://rmorabia.com/hire to learn more about what I'm looking for in a role.**
+
+View or download my resume [here](https://docs.google.com/document/d/1jyR1JjXyKc4wtUDD9aRMLeHxjdC2R3a0SpHtMfrCF60/edit?usp=sharing).**
 
 ![](https://komarev.com/ghpvc/?username=rmorabia)
 
